@@ -1,0 +1,40 @@
+/* *{
+    font-family:Arial, Helvetica, sans-serif;
+} */
+
+/* .test {
+    color: blueviolet;
+} */
+
+/* #test1 {
+    color: red;
+} */
+
+
+.div-1 {
+    background-color: rgb(14, 39, 227);
+    color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23;
+    font-style: italic;
+}
+
+.div-1 p {
+    color: chartreuse;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 19;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.div-1 .div-1-paragraph {
+    color: chocolate;
+}
+
+.test-1.test-2.test-3 {
+    color: yellow;
+}
+
+.p-1, .p-2, .p-3 {
+    color: red;
+}
